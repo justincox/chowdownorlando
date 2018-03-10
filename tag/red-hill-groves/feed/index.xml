@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Red Hill Groves &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/red-hill-groves/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>Red Hill Groves &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Red Hill Groves</title>
+		<link>http://chowdownorlando.com/2013/02/looking-for-a-sweet-treat-in-orange-and-vanilla/</link>
+		<pubDate>Sat, 02 Feb 2013 21:40:21 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[citrus]]></category>
+		<category><![CDATA[Red Hill Groves]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2013/02/looking-for-a-sweet-treat-in-orange-and-vanilla/</guid>
+		<description><![CDATA[<p>Looking for a sweet treat in orange and vanilla swirl ice cream? How about navel oranges as big as softballs for $0.33 a piece? Maybe it’s fresh-squeezed orange juice you seek? All of these amazing things, and more can be obtained from the Red Hill Groves on Conway. Red Hill Groves is an Orlando classic; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2013/02/looking-for-a-sweet-treat-in-orange-and-vanilla/">Red Hill Groves</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2013/02/looking-for-a-sweet-treat-in-orange-and-vanilla/attachment/253/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2013/02/tumblr_mhm478RPB81r1ujdyo1_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>Looking for a sweet treat in orange and vanilla swirl ice cream? How about navel oranges as big as softballs for $0.33 a piece? Maybe it’s fresh-squeezed orange juice you seek? All of these amazing things, and more can be obtained from the <a href="http://www.redhillgroves.com/" target="_blank" rel="noopener">Red Hill Groves</a> on Conway.</p>
+<p>Red Hill Groves is an Orlando classic; it’s been open every citrus season since 1962. While in season the grove store offers extremely fresh citrus and a ton of other treats. Plus, if you’re looking to send a little Florida sunshine to your frozen family members up north, they can do that too.</p>
+<p>Next time you’re on Conway, be sure to stop in at the grove store and, at the very least, pick up an orange and a ice cream. You’ll be very happy you did.</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2013/02/looking-for-a-sweet-treat-in-orange-and-vanilla/">Red Hill Groves</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

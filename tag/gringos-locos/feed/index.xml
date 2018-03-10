@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gringos Locos &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/gringos-locos/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>Gringos Locos &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gringos Locos</title>
+		<link>http://chowdownorlando.com/2011/10/gringos-locos-my-absolute-favorite-place-to-get-a/</link>
+		<pubDate>Wed, 12 Oct 2011 17:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Gringos Locos]]></category>
+		<category><![CDATA[mexican]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2011/10/gringos-locos-my-absolute-favorite-place-to-get-a/</guid>
+		<description><![CDATA[<p>Gringos Locos! My absolute favorite place to get a burrito is at Loco Gringos downtown. The giant monstrosity you see in the picture is the mouth huger, which consists of rice, beans, cheese, eggs, chicken, and pico de gallo. But it’s so much more than all of your favorite Mexican-styled ingredients. It’s all your favorites [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2011/10/gringos-locos-my-absolute-favorite-place-to-get-a/">Gringos Locos</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2011/10/gringos-locos-my-absolute-favorite-place-to-get-a/attachment/653/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2011/10/tumblr_lsys4pH1PM1r1ujdyo1_1280-250x250.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>Gringos Locos! My absolute favorite place to get a burrito is at Loco Gringos downtown. The giant monstrosity you see in the picture is the mouth huger, which consists of rice, beans, cheese, eggs, chicken, and pico de gallo. But it’s so much more than all of your favorite Mexican-styled ingredients. It’s all your favorites done right and done deliciously.</p>
+<p>Behind my almost-as-large-as-my-head-burrito you will see the nachos my friend Kelly had. I did not have the pleasure of trying one of these tasty treats because I was too busy stuffing my face with my burrito, but from her silent contentment I can only gather that they were exactly what she was looking for.</p>
+<p>If your having a craving for Mexican, or just need some food in general, please check out the best burrito spot in Downtown Orlando: Gringos Locos!</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2011/10/gringos-locos-my-absolute-favorite-place-to-get-a/">Gringos Locos</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

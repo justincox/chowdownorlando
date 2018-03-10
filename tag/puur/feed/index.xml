@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Puur &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/puur/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>Puur &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Simply Puur</title>
+		<link>http://chowdownorlando.com/2012/04/simply-puur-is-located-downtown-in-the-suntrust/</link>
+		<pubDate>Mon, 02 Apr 2012 20:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[lunch]]></category>
+		<category><![CDATA[Puur]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2012/04/simply-puur-is-located-downtown-in-the-suntrust/</guid>
+		<description><![CDATA[<p>Simply Puur is located downtown in the SunTrust Bank building at the corner of Church and Orange. It’s open weekdays for breakfast and lunch. It’s new, in the sense that the name is new. The restaurant itself isn’t new and the concept hasn’t changed with the name. Regardless, what they do, they do well. The [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2012/04/simply-puur-is-located-downtown-in-the-suntrust/">Simply Puur</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2012/04/simply-puur-is-located-downtown-in-the-suntrust/attachment/502/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2012/04/tumblr_m1k3pf8s0m1r1ujdyo1_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>Simply Puur is located downtown in the SunTrust Bank building at the corner of Church and Orange. It’s open weekdays for breakfast and lunch. It’s new, in the sense that the name is new. The restaurant itself isn’t new and the concept hasn’t changed with the name. Regardless, what they do, they do well.</p>
+<p>The concept of Puur is simple, come in, choose a line featuring the type of food your in the mood for, and get your lunch. There’s a line for soups and salads, a line for sandwiches, and a line for chef specials – think roasted turkey, salmon, etc. The number of lines keeps the waiting to a minimum which is good considering the location is ripe for quick power lunches.</p>
+<p>The food is good. Pictured above is a roasted turkey with cranberry sandwich. Not pictured was Thai inspired sandwich. The sandwiches come with homemade chips. To help with the speed, all the food is pre-prepared and then put into the oven when ordered. It only takes about three minutes from ordering to having your food in hand.</p>
+<p>Puur is worth a stop if you need a quick lunch spot downtown during the week. It’s not open on the weekends or for dinner.</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2012/04/simply-puur-is-located-downtown-in-the-suntrust/">Simply Puur</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

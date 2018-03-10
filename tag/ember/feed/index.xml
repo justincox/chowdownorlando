@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ember &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/ember/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>Ember &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ember</title>
+		<link>http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/</link>
+		<pubDate>Wed, 28 Dec 2011 21:16:06 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[appetizers]]></category>
+		<category><![CDATA[burgers]]></category>
+		<category><![CDATA[calimari]]></category>
+		<category><![CDATA[Ember]]></category>
+		<category><![CDATA[shrimp]]></category>
+		<category><![CDATA[slidders]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/</guid>
+		<description><![CDATA[<p>After a long day of work, some friends and I went over to Ember on Central Ave for appetizers to end the day off right. Some of the delicious selections that we tasted were buffalo sliders, beef sliders, popcorn shrimp, and calamari. The sliders were as good as any slider can be, the buffalo were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/">Ember</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/attachment/575/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2011/12/tumblr_lwo16wetBh1r1ujdyo1_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/attachment/576/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2011/12/tumblr_lwo16wetBh1r1ujdyo2_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/attachment/577/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2011/12/tumblr_lwo16wetBh1r1ujdyo3_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>After a long day of work, some friends and I went over to Ember on Central Ave for appetizers to end the day off right. Some of the delicious selections that we tasted were buffalo sliders, beef sliders, popcorn shrimp, and calamari. The sliders were as good as any slider can be, the buffalo were especially delicious but that is due to my love of all things spicy. The shrimp was the good surprise of the night. The succulent little buggers were covered in honey which made the breading supper soft and sweet. The calamari could have been a little less chewy, but that is one of the risks you take when ordering such a delicious appetizer. I really enjoyed my experience with Ember’s appetizers and can’t wait to go back and try their main dishes. Let me know what your favorite dishes are from Ember so that I can be sure to try them out the next time I go!</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2011/12/after-a-long-day-of-work-some-friends-and-i-went/">Ember</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

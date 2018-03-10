@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Treehouse Truck &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/treehouse-truck/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>Treehouse Truck &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Treehouse Truck</title>
+		<link>http://chowdownorlando.com/2012/08/this-is-bryans-bruiser-burger-from-the-treehouse/</link>
+		<pubDate>Thu, 30 Aug 2012 18:56:47 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Burger]]></category>
+		<category><![CDATA[burgers]]></category>
+		<category><![CDATA[food trucks]]></category>
+		<category><![CDATA[Treehouse Truck]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2012/08/this-is-bryans-bruiser-burger-from-the-treehouse/</guid>
+		<description><![CDATA[<p>This is Bryan’s Bruiser burger from the Treehouse Truck. It’s a blackened burger with blue cheese, bacon, and all the salad toppings. It’s very good. The blackened seer on the burger is a nice touch, especially when mixed with the blue cheese. You can find the Treehouse Truck on Twitter.</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2012/08/this-is-bryans-bruiser-burger-from-the-treehouse/">Treehouse Truck</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2012/08/this-is-bryans-bruiser-burger-from-the-treehouse/attachment/390/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2012/08/tumblr_m966sjHbGY1r1ujdyo1_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>This is Bryan’s Bruiser burger from the Treehouse Truck. It’s a blackened burger with blue cheese, bacon, and all the salad toppings. It’s very good. The blackened seer on the burger is a nice touch, especially when mixed with the blue cheese.</p>
+<p>You can find the <a href="http://twitter.com/treehousetruck" target="_blank" rel="noopener">Treehouse Truck on Twitter.</a></p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2012/08/this-is-bryans-bruiser-burger-from-the-treehouse/">Treehouse Truck</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

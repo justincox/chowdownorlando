@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Le Gourmet Break &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/le-gourmet-break/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>Le Gourmet Break &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le Gourmet Break</title>
+		<link>http://chowdownorlando.com/2013/07/newly-opened-in-the-plaza-downtown-is-le-gourmet/</link>
+		<pubDate>Tue, 09 Jul 2013 19:01:47 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[french]]></category>
+		<category><![CDATA[Le Gourmet Break]]></category>
+		<category><![CDATA[sandwich]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2013/07/newly-opened-in-the-plaza-downtown-is-le-gourmet/</guid>
+		<description><![CDATA[<p>Newly opened in the Plaza downtown is Le Gourmet Break, a classic French bakery and sandwich shop. I had a baguette sandwich with chicken, proscuitto, swiss, salad (greens and tomato), onion, mayo, and a spicy mustard. It was delicious and larger than I expected for the price. The sandwich has two prices, one for just the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2013/07/newly-opened-in-the-plaza-downtown-is-le-gourmet/">Le Gourmet Break</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2013/07/newly-opened-in-the-plaza-downtown-is-le-gourmet/attachment/185/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2013/07/tumblr_mot9oiLNAg1r1ujdyo1_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='http://chowdownorlando.com/2013/07/newly-opened-in-the-plaza-downtown-is-le-gourmet/attachment/186/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2013/07/tumblr_mot9oiLNAg1r1ujdyo2_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>Newly opened in the Plaza downtown is <a href="http://www.le-gourmet-break.com/" target="_blank" rel="noopener">Le Gourmet Break</a>, a classic French bakery and sandwich shop. I had a baguette sandwich with chicken, proscuitto, swiss, salad (greens and tomato), onion, mayo, and a spicy mustard. It was delicious and larger than I expected for the price.</p>
+<p>The sandwich has two prices, one for just the sandwich and one for the sandwich and choice of soup, salad, or pastry. I chose pastry. I went with the chocolate, almond, croissant which was roughly the size of my head. I enjoyed half with my lunch and half the next morning for breakfast.</p>
+<p>For a bit more than $9 plus tax, this was one enjoyable lunch. You can find Le Gourmet Break in the Plaza downtown.</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2013/07/newly-opened-in-the-plaza-downtown-is-le-gourmet/">Le Gourmet Break</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

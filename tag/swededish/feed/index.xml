@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SwedeDish &#8211; Chow Down Orlando</title>
+	<atom:link href="http://localhost/tag/swededish/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chowdownorlando.com/</link>
+	<description>Exploring all that Orlando has to offer.</description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+
+<image>
+	<url>http://chowdownorlando.com/wp-content/uploads/2018/03/cropped-IMG_0842-3-32x32.jpg</url>
+	<title>SwedeDish &#8211; Chow Down Orlando</title>
+	<link>http://chowdownorlando.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SwedeDISH</title>
+		<link>http://chowdownorlando.com/2012/06/what-you-see-here-is-the-thor-from-the-swededish/</link>
+		<pubDate>Sat, 02 Jun 2012 18:55:01 +0000</pubDate>
+		<dc:creator><![CDATA[justincox]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[food trucks]]></category>
+		<category><![CDATA[SwedeDish]]></category>
+		<category><![CDATA[Thor]]></category>
+
+		<guid isPermaLink="false">http://chowdownorlando.com/2012/06/what-you-see-here-is-the-thor-from-the-swededish/</guid>
+		<description><![CDATA[<p>What you see here is the Thor from the SwedeDISH Food Truck. It’s not your ordinary hot dog. The Thor starts with a pretty thick wrap, not quite a pita but not a normal wrap either, and adds mashed potatoes, a crab salad (I know right?), fried onions, and an all beef hot dog. It [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2012/06/what-you-see-here-is-the-thor-from-the-swededish/">SwedeDISH</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<a href='http://chowdownorlando.com/2012/06/what-you-see-here-is-the-thor-from-the-swededish/attachment/461/'><img width="250" height="250" src="http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-250x250.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-250x250.jpg 250w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-500x500.jpg 500w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-768x768.jpg 768w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-830x830.jpg 830w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-230x230.jpg 230w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-350x350.jpg 350w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280-480x480.jpg 480w, http://chowdownorlando.com/wp-content/uploads/2012/06/tumblr_m48do3lPx81r1ujdyo1_1280.jpg 1280w" sizes="(max-width: 250px) 100vw, 250px" /></a>
+
+<p>What you see here is the Thor from the SwedeDISH Food Truck. It’s not your ordinary hot dog. The Thor starts with a pretty thick wrap, not quite a pita but not a normal wrap either, and adds mashed potatoes, a crab salad (I know right?), fried onions, and an all beef hot dog. It sounded so unusual on the menu that I had to order it. I’m very glad I did.</p>
+<p>Somehow all those flavors and textures work very well together and provide a really great meal. The crab salad was surprisingly refreshing while the fried onions gave a great crunch. The hot dog could have been a little meatier, but the total package is pretty great.</p>
+<p>You can find the <a href="http://twitter.com/SwedeDISHTruck" target="_blank" rel="noopener">SwedeDISH Truck on Twitter</a>.</p>
+<p>The post <a rel="nofollow" href="http://chowdownorlando.com/2012/06/what-you-see-here-is-the-thor-from-the-swededish/">SwedeDISH</a> appeared first on <a rel="nofollow" href="http://chowdownorlando.com/">Chow Down Orlando</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
