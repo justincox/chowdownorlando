@@ -1,5 +1,0 @@
-User-Agent: *
-Disallow: /assets/
-Disallow: /images/
-
-Sitemap: http://chowdownorlando.com/sitemap.xml
